@@ -1,0 +1,4 @@
+*.log
+.opencode/
+__pycache__/
+.env
